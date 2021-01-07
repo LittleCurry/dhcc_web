@@ -4,14 +4,15 @@
     "name": "slideshow",
     "title": "",
     "data": [
-//      {
-//      "id": 1,
-//      "title": "21你是鱼刺",
-//      "poster": "../../../static/images/bg/bg_1.jpg",
-//      "type": "video/mp4",
-//      "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/a4264544e2bbf67bb43e46f44fcad517.mp4",
-//      "amount": 1
-//    }, {
+      {
+      "id": 1,
+      "title": "21你是鱼刺",
+      "poster": "../../../static/images/bg/bg_1.jpg",
+      "type": "video/mp4",
+      "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/a4264544e2bbf67bb43e46f44fcad517.mp4",
+      "amount": 1
+    }
+//      , {
 //      "id": 2,
 //      "title": "达摩金黄皮肤教学",
 //      "poster": "../../../static/images/bg/bg_2.jpg",

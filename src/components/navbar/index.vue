@@ -35,7 +35,7 @@
         <!--</el-row>-->
       </div>
       <!-- 隐藏模块 -->
-      <div class="user" v-if="true">
+      <div class="user" v-if="false">
         <el-button circle>
           <i class="icon-user"></i>
         </el-button>
