@@ -1,5 +1,5 @@
 <template>
-  <div id="app" ref="app" v-title data-title="天择短秀">
+  <div id="app" ref="app" v-title data-title="DHCC">
       <router-view v-if="isRouterAlive"/>
   </div>
 </template>

@@ -1,6 +1,6 @@
 # shotcut
 
-> 天择短秀
+> DHCC
 
 ## Build Setup
 
