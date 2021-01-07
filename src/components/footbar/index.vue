@@ -31,12 +31,12 @@
             </li>
             <li @click="toWeibo('https://weibo.com/u/6593200613')">
               <a>
-                <span class="span-link">晏大小姐Vivi</span>
+                <span class="span-link">青年风采</span>
               </a>
             </li>
             <li @click="toWeibo('https://weibo.com/u/6481027614')">
               <a>
-                <span class="span-link">疯狂特效师</span>
+                <span class="span-link">生命见证</span>
               </a>
             </li>
             <li @click="toWeibo('https://weibo.com/u/6678838554')">

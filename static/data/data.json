@@ -850,7 +850,7 @@
       }, {
         "id": 3,
         "name": "shipinlanmu3",
-        "title": "晏大小姐Vivi",
+        "title": "青年风采",
         "data": [{
             "id": 1,
             "title": "变废为宝的美妆工具",
@@ -1981,7 +1981,7 @@
     }, {
       "id": 7,
       "name": "特效",
-      "title": "疯狂特效师",
+      "title": "生命见证",
       "isMulti": false,
       "data": [{
         "id": 1,
@@ -2884,7 +2884,7 @@
   "module_data_2": {
     "id": 3,
     "name": "shipinlanmu2",
-    "title": "晏大小姐Vivi",
+    "title": "青年风采",
     "data": [{
       "id": 1,
       "title": "樱花少女妆",
@@ -3555,7 +3555,7 @@
   "module_data_5": {
     "id": 6,
     "name": "",
-    "title": "玛栗小酥",
+    "title": "其他内容",
     "data": [{
       "id": 1,
       "title": "带妹高手 第1话",
@@ -3810,7 +3810,7 @@
   "module_data_10": {
     "id": 11,
     "name": "",
-    "title": "疯狂特效师",
+    "title": "生命见证",
     "data": [{
       "id": 1,
       "title": "变大变小",

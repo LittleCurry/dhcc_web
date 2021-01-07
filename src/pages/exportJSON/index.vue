@@ -196,7 +196,7 @@ export default {
                 {
                   id: 3,
                   name: "shipinlanmu3",
-                  title: "晏大小姐Vivi",
+                  title: "青年风采",
                   data: [
                     {
                       id: 1,
@@ -341,7 +341,7 @@ export default {
             {
               id: 7,
               name: "特效",
-              title: "疯狂特效师",
+              title: "生命见证",
               isMulti: false,
               data: [
                 {
@@ -813,7 +813,7 @@ export default {
         module_data_2: {
           id: 3,
           name: "shipinlanmu2",
-          title: "晏大小姐Vivi",
+          title: "青年风采",
           data: [
             {
               id: 1,
@@ -1135,7 +1135,7 @@ export default {
         module_data_3: {
           id: 4,
           name: "shipinlanmu3",
-          title: "王者皮皮怪",
+          title: "圣经",
           data: [
             {
               id: 1,
@@ -1648,7 +1648,7 @@ export default {
         module_data_5: {
           id: 6,
           name: "",
-          title: "玛栗小酥",
+          title: "其他内容",
           data: [
             {
               id: 1,
@@ -1974,7 +1974,7 @@ export default {
         module_data_10: {
           id: 11,
           name: "",
-          title: "疯狂特效师",
+          title: "生命见证",
           data: [
             {
               id: 1,
