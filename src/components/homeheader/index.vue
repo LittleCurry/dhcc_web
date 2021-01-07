@@ -14,84 +14,84 @@
         </div>
       </el-carousel-item>
     </el-carousel>
-    <div
-      class="newslist"
-      id="newslist"
-      v-bind:style="{height:reactiveHeight*0.8+'px',width:reactiveWidth*0.3+'px',top:90*(reactiveHeight/600)+'px'}"
-    >
-      <ul>
-        <li
-          v-bind:class="{'list-active':items[0].actived}"
-          @mouseover="pauseCounter(0)"
-          @mouseout="recoverCounter(0)"
-          @click="linkToPlayer(items[0])"
-        >
-          <a>
-            <span v-bind:class="{'span-active':items[0].actived}">{{items[0].title}}</span>
-          </a>
-        </li>
-        <li
-          v-bind:class="{'list-active':items[1].actived}"
-          @mouseover="pauseCounter(1)"
-          @mouseout="recoverCounter(1)"
-          @click="linkToPlayer(items[1])"
-        >
-          <a>
-            <span v-bind:class="{'span-active':items[1].actived}">{{items[1].title}}</span>
-          </a>
-        </li>
-        <li
-          v-bind:class="{'list-active':items[2].actived}"
-          @mouseover="pauseCounter(2)"
-          @mouseout="recoverCounter(2)"
-          @click="linkToPlayer(items[2])"
-        >
-          <a>
-            <span v-bind:class="{'span-active':items[2].actived}">{{items[2].title}}</span>
-          </a>
-        </li>
-        <li
-          v-bind:class="{'list-active':items[3].actived}"
-          @mouseover="pauseCounter(3)"
-          @mouseout="recoverCounter(3)"
-          @click="linkToPlayer(items[3])"
-        >
-          <a>
-            <span v-bind:class="{'span-active':items[3].actived}">{{items[3].title}}</span>
-          </a>
-        </li>
-        <li
-          v-bind:class="{'list-active':items[4].actived}"
-          @mouseover="pauseCounter(4)"
-          @mouseout="recoverCounter(4)"
-          @click="linkToPlayer(items[4])"
-        >
-          <a>
-            <span v-bind:class="{'span-active':items[4].actived}">{{items[4].title}}</span>
-          </a>
-        </li>
-        <li
-          v-bind:class="{'list-active':items[5].actived}"
-          @mouseover="pauseCounter(5)"
-          @mouseout="recoverCounter(5)"
-          @click="linkToPlayer(items[5])"
-        >
-          <a>
-            <span v-bind:class="{'span-active':items[5].actived}">{{items[5].title}}</span>
-          </a>
-        </li>
-        <li
-          v-bind:class="{'list-active':items[6].actived}"
-          @mouseover="pauseCounter(6)"
-          @mouseout="recoverCounter(6)"
-          @click="linkToPlayer(items[6])"
-        >
-          <a>
-            <span v-bind:class="{'span-active':items[6].actived}">{{items[6].title}}</span>
-          </a>
-        </li>
-      </ul>
-    </div>
+    <!--<div-->
+      <!--class="newslist"-->
+      <!--id="newslist"-->
+      <!--v-bind:style="{height:reactiveHeight*0.8+'px',width:reactiveWidth*0.3+'px',top:90*(reactiveHeight/600)+'px'}"-->
+    <!--&gt;-->
+      <!--<ul>-->
+        <!--<li-->
+          <!--v-bind:class="{'list-active':items[0].actived}"-->
+          <!--@mouseover="pauseCounter(0)"-->
+          <!--@mouseout="recoverCounter(0)"-->
+          <!--@click="linkToPlayer(items[0])"-->
+        <!--&gt;-->
+          <!--<a>-->
+            <!--<span v-bind:class="{'span-active':items[0].actived}">{{items[0].title}}</span>-->
+          <!--</a>-->
+        <!--</li>-->
+        <!--<li-->
+          <!--v-bind:class="{'list-active':items[1].actived}"-->
+          <!--@mouseover="pauseCounter(1)"-->
+          <!--@mouseout="recoverCounter(1)"-->
+          <!--@click="linkToPlayer(items[1])"-->
+        <!--&gt;-->
+          <!--<a>-->
+            <!--<span v-bind:class="{'span-active':items[1].actived}">{{items[1].title}}</span>-->
+          <!--</a>-->
+        <!--</li>-->
+        <!--<li-->
+          <!--v-bind:class="{'list-active':items[2].actived}"-->
+          <!--@mouseover="pauseCounter(2)"-->
+          <!--@mouseout="recoverCounter(2)"-->
+          <!--@click="linkToPlayer(items[2])"-->
+        <!--&gt;-->
+          <!--<a>-->
+            <!--<span v-bind:class="{'span-active':items[2].actived}">{{items[2].title}}</span>-->
+          <!--</a>-->
+        <!--</li>-->
+        <!--<li-->
+          <!--v-bind:class="{'list-active':items[3].actived}"-->
+          <!--@mouseover="pauseCounter(3)"-->
+          <!--@mouseout="recoverCounter(3)"-->
+          <!--@click="linkToPlayer(items[3])"-->
+        <!--&gt;-->
+          <!--<a>-->
+            <!--<span v-bind:class="{'span-active':items[3].actived}">{{items[3].title}}</span>-->
+          <!--</a>-->
+        <!--</li>-->
+        <!--<li-->
+          <!--v-bind:class="{'list-active':items[4].actived}"-->
+          <!--@mouseover="pauseCounter(4)"-->
+          <!--@mouseout="recoverCounter(4)"-->
+          <!--@click="linkToPlayer(items[4])"-->
+        <!--&gt;-->
+          <!--<a>-->
+            <!--<span v-bind:class="{'span-active':items[4].actived}">{{items[4].title}}</span>-->
+          <!--</a>-->
+        <!--</li>-->
+        <!--<li-->
+          <!--v-bind:class="{'list-active':items[5].actived}"-->
+          <!--@mouseover="pauseCounter(5)"-->
+          <!--@mouseout="recoverCounter(5)"-->
+          <!--@click="linkToPlayer(items[5])"-->
+        <!--&gt;-->
+          <!--<a>-->
+            <!--<span v-bind:class="{'span-active':items[5].actived}">{{items[5].title}}</span>-->
+          <!--</a>-->
+        <!--</li>-->
+        <!--<li-->
+          <!--v-bind:class="{'list-active':items[6].actived}"-->
+          <!--@mouseover="pauseCounter(6)"-->
+          <!--@mouseout="recoverCounter(6)"-->
+          <!--@click="linkToPlayer(items[6])"-->
+        <!--&gt;-->
+          <!--<a>-->
+            <!--<span v-bind:class="{'span-active':items[6].actived}">{{items[6].title}}</span>-->
+          <!--</a>-->
+        <!--</li>-->
+      <!--</ul>-->
+    <!--</div>-->
   </div>
 </template>
 
