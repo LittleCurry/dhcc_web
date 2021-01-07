@@ -41,7 +41,7 @@
             </li>
             <li @click="toWeibo('https://weibo.com/u/6678838554')">
               <a>
-                <span class="span-link">王者皮皮怪</span>
+                <span class="span-link">讲道视频</span>
               </a>
             </li>
           </ul>

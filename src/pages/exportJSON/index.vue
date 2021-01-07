@@ -105,7 +105,7 @@ export default {
             {
               id: 2,
               name: "游戏",
-              title: "王者皮皮怪",
+              title: "讲道视频",
               isMulti: false,
               data: [
                 {

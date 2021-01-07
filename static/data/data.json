@@ -310,7 +310,7 @@
     }, {
       "id": 2,
       "name": "游戏",
-      "title": "王者皮皮怪",
+      "title": "讲道视频",
       "isMulti": false,
       "data": [{
           "id": 1,
@@ -3136,7 +3136,7 @@
   "module_data_3": {
     "id": 4,
     "name": "shipinlanmu3",
-    "title": "王者皮皮怪",
+    "title": "讲道视频",
     "data": [{
       "id": 1,
       "title": "80锤",
