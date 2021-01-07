@@ -347,10 +347,10 @@ export default {
                 {
                   id: 1,
                   title: "迦南见证",
-                  poster: "../../../../../original/chen.jpg",
+                  poster: "../../../static/original/chen.jpg",
                   type: "application/x-mpegURL",
                   video_url:
-                    "../../../../../original/chen.mp4",
+                    "../../../static/original/chen.mp4",
                   amount: 3824
                 }
               ]
