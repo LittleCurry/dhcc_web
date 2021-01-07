@@ -6,49 +6,49 @@
     "data": [
       {
       "id": 1,
-      "title": "21你是鱼刺",
-      "poster": "../../../static/images/bg/bg_1.jpg",
+      "title": "迦南见证1",
+      "poster": "../../../static/original/chen.jpg",
       "type": "video/mp4",
-      "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/a4264544e2bbf67bb43e46f44fcad517.mp4",
+      "video_url": "../../../static/original/chen.mp4",
       "amount": 1
     }, {
       "id": 2,
-      "title": "达摩金黄皮肤教学",
+      "title": "青年夏令营",
       "poster": "../../../static/images/bg/bg_2.jpg",
       "type": "video/mp4",
       "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/aec19a6d57c35ce9d604e9577df61df8.mp4",
       "amount": 1
     }, {
       "id": 3,
-      "title": "玛丽小酥",
+      "title": "教会日常",
       "poster": "../../../static/images/bg/bg_3.jpg",
       "type": "video/mp4",
       "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/836c100ee855a8e6cc333f0b6b8f046b.mp4",
       "amount": 1
     }, {
       "id": 4,
-      "title": "明星拍照姿势",
+      "title": "同工服事",
       "poster": "../../../static/images/bg/bg_4.jpg",
       "type": "video/mp4",
       "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/0a8eccd7d3e1a38fa9c1547a270bab8f.mp4",
       "amount": 1
     }, {
       "id": 5,
-      "title": "男生们 跟你称兄道弟的女生 你可要注意了！",
+      "title": "亲自活动",
       "poster": "../../../static/images/bg/bg_5.jpg",
       "type": "video/mp4",
       "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/b0f694479684f2810d5bc9ef32537328.mp4",
       "amount": 1
     }, {
       "id": 6,
-      "title": "特效师嘟拉舞",
+      "title": "聚餐",
       "poster": "../../../static/images/bg/bg_6.jpg",
       "type": "video/mp4",
       "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/ff6240b9971a0db06fe6240203949f70.mp4",
       "amount": 1
     }, {
       "id": 7,
-      "title": "最强国产跑鞋匹克阿莉塔测评",
+      "title": "敬拜团",
       "poster": "../../../static/images/bg/bg_7.jpg",
       "type": "video/mp4",
       "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/b841edd2e6a7d38a66f3b050e177b8d8.mp4",
