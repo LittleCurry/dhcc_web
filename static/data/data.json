@@ -3633,284 +3633,101 @@
     "data": [
       {
         "id": 1,
-        "title": "带妹高手 第1话",
-        "poster": "../../../static/images/module/9/mlxs_1.jpg",
+        "title": "待定1",
+        "poster": "../../../static/original/1.jpg",
         "type": "video/mp4",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/35652b3879534d41320a1282c7a20fed.mp4",
+        "video_url": "../../../static/original/chen.mp4",
         "amount": 833
       },
       {
         "id": 2,
-        "title": "带妹高手 第2话",
-        "poster": "../../../static/images/module/9/mlxs_2.jpg",
+        "title": "待定2",
+        "poster": "../../../static/original/1.jpg",
         "type": "video/mp4",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/4c3a18b9cb97f3bdc3d7efc676960133.mp4",
-        "amount": 3414
+        "video_url": "../../../static/original/chen.mp4",
+        "amount": 833
       },
       {
         "id": 3,
-        "title": "带妹高手 第3话",
-        "poster": "../../../static/images/module/9/mlxs_3.jpg",
+        "title": "待定3",
+        "poster": "../../../static/original/1.jpg",
         "type": "video/mp4",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/753914f31cf9566f12626bcadb35ae37.mp4",
-        "amount": 2616
+        "video_url": "../../../static/original/chen.mp4",
+        "amount": 833
       },
       {
         "id": 4,
-        "title": "带妹高手 第4话",
-        "poster": "../../../static/images/module/9/mlxs_4.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/fa39e2492c0a7d6bec7caf625ed606d6.m3u8",
-        "amount": 2616
+        "title": "待定4",
+        "poster": "../../../static/original/1.jpg",
+        "type": "video/mp4",
+        "video_url": "../../../static/original/chen.mp4",
+        "amount": 833
       },
       {
         "id": 5,
-        "title": "霸道男友如何相处",
-        "poster": "../../../static/images/module/9/mlxs_5.jpg",
+        "title": "待定5",
+        "poster": "../../../static/original/1.jpg",
         "type": "video/mp4",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/2262d098a1ff14d43b324417779dd678.mp4",
-        "amount": 2616
+        "video_url": "../../../static/original/chen.mp4",
+        "amount": 833
       },
       {
         "id": 6,
-        "title": "比悲伤更悲伤的故事定",
-        "poster": "../../../static/images/module/9/mlxs_6.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/be40145b7e72cbb6e1d8fe7c92ca13c8.m3u8",
-        "amount": 2616
+        "title": "待定6",
+        "poster": "../../../static/original/1.jpg",
+        "type": "video/mp4",
+        "video_url": "../../../static/original/chen.mp4",
+        "amount": 833
       },
       {
         "id": 7,
-        "title": "分手后还能做朋友吗",
-        "poster": "../../../static/images/module/9/mlxs_7.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/a4c8fafddc8e04340240e47b11cb1134.m3u8",
-        "amount": 2616
+        "title": "待定7",
+        "poster": "../../../static/original/1.jpg",
+        "type": "video/mp4",
+        "video_url": "../../../static/original/chen.mp4",
+        "amount": 833
       },
       {
         "id": 8,
-        "title": "猫系男友如何相处",
-        "poster": "../../../static/images/module/9/mlxs_8.jpg",
+        "title": "待定8",
+        "poster": "../../../static/original/1.jpg",
         "type": "video/mp4",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/ebe3579e0c0c0f58812903ca67c120d4.mp4",
-        "amount": 2616
+        "video_url": "../../../static/original/chen.mp4",
+        "amount": 833
       },
       {
         "id": 9,
-        "title": "男生喜欢你的四个表现",
-        "poster": "../../../static/images/module/9/mlxs_9.jpg",
+        "title": "待定9",
+        "poster": "../../../static/original/1.jpg",
         "type": "video/mp4",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/f66982b540cd482a14aac0b6f68f04e2.mp4",
-        "amount": 2616
+        "video_url": "../../../static/original/chen.mp4",
+        "amount": 833
       },
       {
         "id": 10,
-        "title": "喜欢你的人爱意是藏不住的",
-        "poster": "../../../static/images/module/9/mlxs_10.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/2bd1e9e36c04854529b92d50f6f611fc.m3u8",
-        "amount": 2616
+        "title": "待定10",
+        "poster": "../../../static/original/1.jpg",
+        "type": "video/mp4",
+        "video_url": "../../../static/original/chen.mp4",
+        "amount": 833
       },
       {
         "id": 11,
-        "title": "尖叫吧！小酥1",
-        "poster": "../../../static/images/module/9/mlxs_11.jpg",
+        "title": "待定11",
+        "poster": "../../../static/original/1.jpg",
         "type": "video/mp4",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/b4379077d2c11615de978805903eeb94.mp4",
-        "amount": 2616
+        "video_url": "../../../static/original/chen.mp4",
+        "amount": 833
       },
       {
         "id": 12,
-        "title": "尖叫吧！小酥2",
-        "poster": "../../../static/images/module/9/mlxs_12.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/2dfbd0d72d39c25ac2408a58d57ea335.m3u8",
-        "amount": 2616
-      },
-      {
-        "id": 13,
-        "title": "尖叫吧！小酥3",
-        "poster": "../../../static/images/module/9/mlxs_13.jpg",
+        "title": "待定12",
+        "poster": "../../../static/original/1.jpg",
         "type": "video/mp4",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/6128bb689bfd1b5dcc5e58f11bd4eb49.mp4",
-        "amount": 2616
-      },
-      {
-        "id": 14,
-        "title": "尖叫吧！小酥4",
-        "poster": "../../../static/images/module/9/mlxs_14.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/f93e517ffae75e1ebc8c4745cd448513.m3u8",
-        "amount": 2616
-      },
-      {
-        "id": 15,
-        "title": "尖叫吧！小酥5",
-        "poster": "../../../static/images/module/9/mlxs_15.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/065ea4e843f15d05f286f1d7d7a7ee09.m3u8",
-        "amount": 2616
-      },
-      {
-        "id": 16,
-        "title": "尖叫吧！小酥6",
-        "poster": "../../../static/images/module/9/mlxs_16.jpg",
-        "type": "video/mp4",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/1582f2bbef96420ce948d724cc89a184.m3u8",
-        "amount": 2616
-      },
-      {
-        "id": 17,
-        "title": "流星雨 第1话",
-        "poster": "../../../static/images/module/9/mlxs_17.jpg",
-        "type": "video/mp4",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/2681aa600c4df09278119d262b910a78.mp4",
-        "amount": 2616
-      },
-      {
-        "id": 18,
-        "title": "流星雨 第2话",
-        "poster": "../../../static/images/module/9/mlxs_18.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/132b415ae8e41546c48a4d867f9e3fc6.m3u8",
-        "amount": 2616
-      },
-      {
-        "id": 19,
-        "title": "流星雨 第3话",
-        "poster": "../../../static/images/module/9/mlxs_19.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/a185926281c27e9c2aad65e416a84e6c.m3u8",
-        "amount": 2616
-      },
-      {
-        "id": 20,
-        "title": "流星雨 第4话",
-        "poster": "../../../static/images/module/9/mlxs_20.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/a32f2f62511841c381fb11ef1347ac5b.m3u8",
-        "amount": 2616
-      },
-      {
-        "id": 21,
-        "title": "流星雨 第5话",
-        "poster": "../../../static/images/module/9/mlxs_21.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/828e216064c9c42d127eff2dba59fa3e.m3u8",
-        "amount": 2616
-      },
-      {
-        "id": 22,
-        "title": "流星雨 第6话",
-        "poster": "../../../static/images/module/9/mlxs_22.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/7e659124ffd58614c932433b753c9c40.m3u8",
-        "amount": 2616
-      },
-      {
-        "id": 23,
-        "title": "流星雨 第7话",
-        "poster": "../../../static/images/module/9/mlxs_23.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/d2ec359f194a492b828d68a5395e6f64.m3u8",
-        "amount": 2616
-      },
-      {
-        "id": 24,
-        "title": "流星雨 第8话",
-        "poster": "../../../static/images/module/9/mlxs_24.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/09e510870dd687c52346e01665378d44.m3u8",
-        "amount": 2616
-      },
-      {
-        "id": 25,
-        "title": "流星雨 第9话",
-        "poster": "../../../static/images/module/9/mlxs_25.jpg",
-        "type": "video/mp4",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/3ba7b927c7a373cefc5baedd71a9e26f.mp4",
-        "amount": 2616
-      },
-      {
-        "id": 26,
-        "title": "流星雨 结局1",
-        "poster": "../../../static/images/module/9/mlxs_26.jpg",
-        "type": "video/mp4",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/12e5ae5fcc74aa16cd20ad6709eb30ea.mp4",
-        "amount": 2616
-      },
-      {
-        "id": 27,
-        "title": "流星雨 结局2",
-        "poster": "../../../static/images/module/9/mlxs_27.jpg",
-        "type": "video/mp4",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/113296b18b66b5da4173ff7f87ab3279.mp4",
-        "amount": 2616
-      },
-      {
-        "id": 28,
-        "title": "仙人掌女孩 第1话",
-        "poster": "../../../static/images/module/9/mlxs_28.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/994f847005c88948e27407c5c5a77e49.m3u8",
-        "amount": 2616
-      },
-      {
-        "id": 29,
-        "title": "仙人掌女孩 第2话",
-        "poster": "../../../static/images/module/9/mlxs_29.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/aaac6f85e92d84fd84dae30044c80c31.m3u8",
-        "amount": 2616
-      },
-      {
-        "id": 30,
-        "title": "仙人掌女孩 第3话",
-        "poster": "../../../static/images/module/9/mlxs_30.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/2e23bbcbcf29ee582142663b1cc522f2.m3u8",
-        "amount": 2616
-      },
-      {
-        "id": 31,
-        "title": "仙人掌女孩 第4话",
-        "poster": "../../../static/images/module/9/mlxs_31.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/6603e59433108be081e2535f495a6b20.m3u8",
-        "amount": 2616
-      },
-      {
-        "id": 32,
-        "title": "仙人掌女孩 第5话",
-        "poster": "../../../static/images/module/9/mlxs_32.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/8cf4bf2f220bd2020a4893348094ae25.m3u8",
-        "amount": 2616
-      },
-      {
-        "id": 33,
-        "title": "仙人掌女孩 第6话",
-        "poster": "../../../static/images/module/9/mlxs_33.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/96120f2bdf9da8499d1caad8c3f73a90.m3u8",
-        "amount": 2616
-      },
-      {
-        "id": 34,
-        "title": "仙人掌女孩 第7话",
-        "poster": "../../../static/images/module/9/mlxs_34.jpg",
-        "type": "video/mp4",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/b8ae3ea2ba36dc229426e9adce6c2e76.mp4",
-        "amount": 2616
-      },
-      {
-        "id": 35,
-        "title": "仙人掌女孩 第8话",
-        "poster": "../../../static/images/module/9/mlxs_35.jpg",
-        "type": "video/mp4",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/7eed0168a941415786b0803ba84bb392.mp4",
-        "amount": 2616
+        "video_url": "../../../static/original/chen.mp4",
+        "amount": 833
       }
+
     ]
   },
   "module_data_6": {},
