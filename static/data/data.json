@@ -912,7 +912,7 @@
           {
             "id": 3,
             "name": "shipinlanmu3",
-            "title": "青年风采",
+            "title": "青年风采(后续)",
             "data": [
               {
                 "id": 1,
@@ -3222,285 +3222,113 @@
     "data": [
       {
         "id": 1,
-        "title": "樱花少女妆",
-        "cover": "../../../static/images/module/2/vivi_1.png",
-        "poster": "../../../static/images/module/2/vivi_1.jpg",
+        "title": "夏令营",
+        "cover": "../../../static/original/1.jpg",
+        "poster": "../../../static/original/1.jpg",
         "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/ea270c3c10dd57153ac0aaf8a8a4f2ab.m3u8",
+        "video_url": "../../../static/original/1.mp4",
         "amount": 3824
       },
       {
         "id": 2,
-        "title": "超减龄心机腮红",
-        "poster": "../../../static/images/module/2/vivi_2.jpg",
+        "title": "冬令营",
+        "cover": "../../../static/original/2.jpg",
+        "poster": "../../../static/original/2.jpg",
         "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/23247978715c1e26339d5dfb8451817b.m3u8",
-        "amount": 4928
+        "video_url": "../../../static/original/chen.mp4",
+        "amount": 3824
       },
       {
         "id": 3,
-        "title": "超强干货！芒果后台化妆步骤",
-        "poster": "../../../static/images/module/2/vivi_3.jpg",
+        "title": "演讲",
+        "cover": "../../../static/original/3.jpg",
+        "poster": "../../../static/original/3.jpg",
         "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/de81e6a6517c3869b05fafda2fdb41fb.m3u8",
-        "amount": 2938
+        "video_url": "../../../static/original/1.mp4",
+        "amount": 3824
       },
       {
         "id": 4,
-        "title": "初一到初七发型",
-        "poster": "../../../static/images/module/2/vivi_4.jpg",
+        "title": "沟通",
+        "cover": "../../../static/original/4.jpg",
+        "poster": "../../../static/original/4.jpg",
         "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/c8382542783f3c87373fa038c24a9e4f.m3u8",
-        "amount": 2742
+        "video_url": "../../../static/original/1.mp4",
+        "amount": 3824
       },
       {
         "id": 5,
-        "title": "唇形不完美，口红来补救",
-        "poster": "../../../static/images/module/2/vivi_5.jpg",
+        "title": "跳舞💃",
+        "cover": "../../../static/original/1.jpg",
+        "poster": "../../../static/original/1.jpg",
         "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/80f0fa0d837c0a6b02dbe34d0d90ddc7.m3u8",
+        "video_url": "../../../static/original/1.mp4",
         "amount": 3824
       },
       {
         "id": 6,
-        "title": "倒贴的爱情要不要坚持",
-        "poster": "../../../static/images/module/2/vivi_6.jpg",
+        "title": "唱歌",
+        "cover": "../../../static/original/1.jpg",
+        "poster": "../../../static/original/1.jpg",
         "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/62f83d1e827932d67be3faa8e2ec3059.m3u8",
-        "amount": 4928
+        "video_url": "../../../static/original/1.mp4",
+        "amount": 3824
       },
       {
         "id": 7,
-        "title": "抖音-男友大改造25秒",
-        "poster": "../../../static/images/module/2/vivi_7.jpg",
+        "title": "跳高",
+        "cover": "../../../static/original/1.jpg",
+        "poster": "../../../static/original/1.jpg",
         "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/7529fde3464450c6e078be1ca454af82.m3u8",
-        "amount": 2938
+        "video_url": "../../../static/original/1.mp4",
+        "amount": 3824
       },
       {
         "id": 8,
-        "title": "发财丸子头",
-        "poster": "../../../static/images/module/2/vivi_8.jpg",
+        "title": "划水",
+        "cover": "../../../static/original/1.jpg",
+        "poster": "../../../static/original/1.jpg",
         "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/bea0cf61ca8eb1467afc3d26e0a10e1f.m3u8",
-        "amount": 2742
+        "video_url": "../../../static/original/1.mp4",
+        "amount": 3824
       },
       {
         "id": 9,
-        "title": "高圆圆最爱的军绿色",
-        "poster": "../../../static/images/module/2/vivi_9.jpg",
+        "title": "登山",
+        "cover": "../../../static/original/1.jpg",
+        "poster": "../../../static/original/1.jpg",
         "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/8707bc44621608524fc5b60e6f2073d6.m3u8",
+        "video_url": "../../../static/original/1.mp4",
         "amount": 3824
       },
       {
         "id": 10,
-        "title": "化妆前的你vs化妆后的你",
-        "poster": "../../../static/images/module/2/vivi_10.jpg",
+        "title": "拔河",
+        "cover": "../../../static/original/1.jpg",
+        "poster": "../../../static/original/1.jpg",
         "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/79dd38751d1457f11223f2a4cf6a8089.m3u8",
-        "amount": 4928
+        "video_url": "../../../static/original/1.mp4",
+        "amount": 3824
       },
       {
         "id": 11,
-        "title": "红毯底妆画法",
-        "poster": "../../../static/images/module/2/vivi_11.jpg",
+        "title": "跑步",
+        "cover": "../../../static/original/1.jpg",
+        "poster": "../../../static/original/1.jpg",
         "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/3fec0a62421bab07eab926d38b49dc2c.m3u8",
-        "amount": 2938
+        "video_url": "../../../static/original/1.mp4",
+        "amount": 3824
       },
       {
         "id": 12,
-        "title": "会喷香水的姑娘，灵魂自带香气",
-        "poster": "../../../static/images/module/2/vivi_12.jpg",
+        "title": "野营",
+        "cover": "../../../static/original/1.jpg",
+        "poster": "../../../static/original/1.jpg",
         "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/4e3fde170746b6fb2a8ceebfba232c8d.m3u8",
-        "amount": 4928
-      },
-      {
-        "id": 13,
-        "title": "鉴表特别篇-男友会鉴",
-        "poster": "../../../static/images/module/2/vivi_13.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/66a05e07b355ea62a903bf84634868d5.m3u8",
-        "amount": 2938
-      },
-      {
-        "id": 14,
-        "title": "鉴渣之男友习惯性打压我",
-        "poster": "../../../static/images/module/2/vivi_14.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/cf3d4bf407dcc35e395c23b36cf7f9ff.m3u8",
-        "amount": 2742
-      },
-      {
-        "id": 15,
-        "title": "精灵妆+女王妆拼接",
-        "poster": "../../../static/images/module/2/vivi_15.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/7ad0dfe3487cef21abbfad823b84040f.m3u8",
+        "video_url": "../../../static/original/1.mp4",
         "amount": 3824
-      },
-      {
-        "id": 16,
-        "title": "卷发棒攻略（上）",
-        "poster": "../../../static/images/module/2/vivi_16.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/f9b898a6c013394835e35ecdfee721a4.m3u8",
-        "amount": 4928
-      },
-      {
-        "id": 17,
-        "title": "卷发棒攻略（下）",
-        "poster": "../../../static/images/module/2/vivi_17.jpg",
-        "type": "video/mp4",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/c19c03469e38b416ddf0842a47461437.mp4",
-        "amount": 2938
-      },
-      {
-        "id": 18,
-        "title": "绝不脱妆的眼线教程",
-        "poster": "../../../static/images/module/2/vivi_18.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/37cdff0e1d00a8304356bf31075e92f5.m3u8",
-        "amount": 2742
-      },
-      {
-        "id": 19,
-        "title": "明星拍照姿势",
-        "poster": "../../../static/images/module/2/vivi_19.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/8d34260d2e5dc715a64dfa941c39b584.m3u8",
-        "amount": 3824
-      },
-      {
-        "id": 20,
-        "title": "明星为什么爱去时装周",
-        "poster": "../../../static/images/module/2/vivi_20.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/fcd335b51eb91f2256b32658265311de.m3u8",
-        "amount": 4928
-      },
-      {
-        "id": 21,
-        "title": "男友异性朋友抖音",
-        "poster": "../../../static/images/module/2/vivi_21.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/6cc3b16c14e2cf9120c892dbfb31f667.m3u8",
-        "amount": 2938
-      },
-      {
-        "id": 22,
-        "title": "女明星的黄金3秒补水法则",
-        "poster": "../../../static/images/module/2/vivi_22.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/6da6300a8e1e8e5149e184442541f047.m3u8",
-        "amount": 3824
-      },
-      {
-        "id": 23,
-        "title": "女明星最怕的法令纹",
-        "poster": "../../../static/images/module/2/vivi_23.jpg",
-        "type": "video/mp4",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/5c27aa878b696c927ad34d8701fedc14.mp4",
-        "amount": 4928
-      },
-      {
-        "id": 24,
-        "title": "三八妇女节宣言",
-        "poster": "../../../static/images/module/2/vivi_24.jpg",
-        "type": "video/mp4",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/073c823450ef570490efa6f79a2687a5.mp4",
-        "amount": 2938
-      },
-      {
-        "id": 25,
-        "title": "三步简单卷发 打造少女心发型",
-        "poster": "../../../static/images/module/2/vivi_25.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/c807ccbcd415c8c15ea314fd694fc1b5.m3u8",
-        "amount": 2742
-      },
-      {
-        "id": 26,
-        "title": "生僻字",
-        "poster": "../../../static/images/module/2/vivi_26.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/043096586b75a6933866a08a0e55da40.m3u8",
-        "amount": 3824
-      },
-      {
-        "id": 27,
-        "title": "时尚大片抖音版",
-        "poster": "../../../static/images/module/2/vivi_27.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/4c5e14b5adf95017884de020dc6bd701.m3u8",
-        "amount": 4928
-      },
-      {
-        "id": 28,
-        "title": "水波纹卷发 ",
-        "poster": "../../../static/images/module/2/vivi_28.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/dc80d1db50c09bed0620eb8552b24b75.m3u8",
-        "amount": 2938
-      },
-      {
-        "id": 29,
-        "title": "说好的穿厚点你竟然",
-        "poster": "../../../static/images/module/2/vivi_29.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/dd8459f5db5d8df65b8f3fba0ee0e835.m3u8",
-        "amount": 4928
-      },
-      {
-        "id": 30,
-        "title": "心机腮红",
-        "poster": "../../../static/images/module/2/vivi_30.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/7cf28e5ad8279f7591534ae6610fb8da.m3u8",
-        "amount": 2938
-      },
-      {
-        "id": 31,
-        "title": "学郑秀晶臭脸拍照",
-        "poster": "../../../static/images/module/2/vivi_31.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/81d503ba18182d305eede095e86ec486.m3u8",
-        "amount": 2742
-      },
-      {
-        "id": 32,
-        "title": "变废为宝的美妆工具",
-        "poster": "../../../static/images/module/2/vivi_1.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/ea270c3c10dd57153ac0aaf8a8a4f2ab.m3u8",
-        "amount": 3824
-      },
-      {
-        "id": 33,
-        "title": "真假闺蜜之饭局",
-        "poster": "../../../static/images/module/2/vivi_33.jpg",
-        "type": "application/x-mpegURL",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/792af0a04310a586f35830c7fb426fe9.m3u8",
-        "amount": 4928
-      },
-      {
-        "id": 34,
-        "title": "正确的护肤步骤",
-        "poster": "../../../static/images/module/2/vivi_34.jpg",
-        "type": "video/mp4",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/dee0f520ffb3d1b3b58ab498e7dfa872.mp4",
-        "amount": 2938
-      },
-      {
-        "id": 35,
-        "title": "主持人高跟鞋",
-        "poster": "../../../static/images/module/2/vivi_35.jpg",
-        "type": "video/mp4",
-        "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/835f7d6df78bb2a07852d299a6e0f223.mp4",
-        "amount": 2742
       }
+
     ]
   },
   "module_data_3": {
