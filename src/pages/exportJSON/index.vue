@@ -346,11 +346,11 @@ export default {
               data: [
                 {
                   id: 1,
-                  title: "变大变小",
-                  poster: "../../../static/images/module/10/fktx_1.jpg",
+                  title: "迦南见证",
+                  poster: "../../../../../original/chen.jpg",
                   type: "application/x-mpegURL",
                   video_url:
-                    "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/60b7a93c08a529e33be68cc07b5f29af.m3u8",
+                    "../../../../../original/chen.mp4",
                   amount: 3824
                 }
               ]
