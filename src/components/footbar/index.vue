@@ -87,7 +87,8 @@ export default {
   props: {},
   data() {
     return {
-      copyright: "ICP备案号为湘ICP备13006449号-3"
+      // copyright: "ICP备案号为湘ICP备13006449号-3"
+      copyright: ""
     };
   },
   created() {},

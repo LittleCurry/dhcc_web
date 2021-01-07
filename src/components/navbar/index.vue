@@ -19,23 +19,23 @@
         </div>
       </div>
       <div class="searchbar" v-if="search">
-        <el-row>
-          <el-col :span="20">
-            <el-input
-              v-model="keyWord"
-              prefix-icon="el-icon-search"
-              placeholder="请输入关键字"
-              maxlength="10"
-              clearable
-            ></el-input>
-          </el-col>
-          <el-col :span="4">
-            <el-button @click="getSearch()" round>搜索</el-button>
-          </el-col>
-        </el-row>
+        <!--<el-row>-->
+          <!--<el-col :span="20">-->
+            <!--<el-input-->
+              <!--v-model="keyWord"-->
+              <!--prefix-icon="el-icon-search"-->
+              <!--placeholder="请输入关键字"-->
+              <!--maxlength="10"-->
+              <!--clearable-->
+            <!--&gt;</el-input>-->
+          <!--</el-col>-->
+          <!--<el-col :span="4">-->
+            <!--<el-button @click="getSearch()" round>搜索</el-button>-->
+          <!--</el-col>-->
+        <!--</el-row>-->
       </div>
       <!-- 隐藏模块 -->
-      <div class="user" v-if="false">
+      <div class="user" v-if="true">
         <el-button circle>
           <i class="icon-user"></i>
         </el-button>
