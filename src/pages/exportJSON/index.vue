@@ -346,7 +346,7 @@ export default {
               data: [
                 {
                   id: 1,
-                  title: "迦南见证",
+                  title: "迦南见证detail",
                   poster: "../../../static/original/chen.jpg",
                   type: "application/x-mpegURL",
                   video_url:

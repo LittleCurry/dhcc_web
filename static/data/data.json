@@ -1987,7 +1987,7 @@
       "isMulti": false,
       "data": [{
         "id": 1,
-        "title": "迦南见证",
+        "title": "迦南的见证",
         "poster": "../../../static/original/chen.jpg",
         "type": "application/x-mpegURL",
         "video_url": "../../../static/original/chen.mp4",
@@ -3815,7 +3815,7 @@
     "title": "生命见证",
     "data": [{
       "id": 1,
-      "title": "迦南见证",
+      "title": "迦南见证2020",
       "cover":"../../../static/original/chen.jpg",
       "poster": "../../../static/original/chen.jpg",
       "type": "application/x-mpegURL",
