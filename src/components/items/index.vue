@@ -62,7 +62,8 @@ export default {
           {
             withCredentials: false,
             type: obj.type,
-            src: obj.video_url
+            // src: obj.video_url
+            src: require(obj.video_url)
           }
         ]
       };
@@ -93,7 +94,8 @@ export default {
 }
 
 .items-small {
-  width: 18% !important;
+  /*width: 18% !important;*/
+  width: 27% !important;
   margin-right: 1% !important;
   margin-left: 1% !important;
 }
@@ -103,7 +105,8 @@ export default {
 }
 
 .items {
-  width: 13%;
+  /*width: 13%;*/
+  width: 30%;
   height: auto;
   margin-right: 0.64%;
   margin-left: 0.64%;

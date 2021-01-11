@@ -247,7 +247,7 @@ export default {
 
 .home-header {
   width: 100%;
-  height: 600px;
+  height: 800px;
   //position: relative;
 
   .navbar {
