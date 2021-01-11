@@ -139,7 +139,7 @@
     },
     mounted() {
       this.videoData = this.$route.query.data;
-      console.log(this.videoData);
+      console.log('this.videoData:', this.videoData);
       if (this.videoData == {}) {
         this.videoData = JSON.parse(localStorage.getItem("shotcut_videoData"));
       } else {
@@ -151,7 +151,7 @@
       // }
       this.amount = this.videoData.amount;
       this.playerOptions.poster = this.videoData.poster;
-      // this.playerOptions.sources = this.videoData.source;
+      this.playerOptions.sources = this.videoData.source;
 
 
       // this.playerOptions.sources.src = require(this.videoData.source.src);
