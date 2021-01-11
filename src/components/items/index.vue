@@ -62,7 +62,6 @@ export default {
           {
             withCredentials: false,
             type: obj.type,
-            // src: obj.video_url
             src: require(obj.video_url)
           }
         ]
