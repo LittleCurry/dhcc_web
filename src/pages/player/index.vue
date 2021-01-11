@@ -119,7 +119,8 @@
           // src: require(this.videoData.source.src),
           sources : [ {
             type : "video/mp4",
-            src : require(this.videoData.source.src)
+            // src : require(this.videoData.source.src)
+            src : this.videoData.source.src
           } ],
           flash: {hls: {withCredentials: false}},
           html5: {hls: {withCredentials: false}},
@@ -150,7 +151,7 @@
       // }
       this.amount = this.videoData.amount;
       this.playerOptions.poster = this.videoData.poster;
-      this.playerOptions.sources = this.videoData.source;
+      // this.playerOptions.sources = this.videoData.source;
 
 
       // this.playerOptions.sources.src = require(this.videoData.source.src);
