@@ -36,7 +36,7 @@ export default {
 <style lang="scss">
 .playlet-page {
   width: 100%;
-  min-width: 1050px;
+  /*min-width: 1050px;*/
   height: 100%;
 
   .header {

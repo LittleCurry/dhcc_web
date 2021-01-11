@@ -209,7 +209,7 @@ export default {
 
 .navbar {
   width: 100%;
-  min-width: 1050px;
+  /*min-width: 1050px;*/
   background: rgba(26, 26, 26, 1);
 
   .generalbar {

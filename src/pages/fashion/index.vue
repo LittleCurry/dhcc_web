@@ -38,7 +38,7 @@ export default {
 <style lang="scss">
 .fashion-page {
   width: 100%;
-  min-width: 1050px;
+  /*min-width: 1050px;*/
   height: 100%;
 
   .header {
