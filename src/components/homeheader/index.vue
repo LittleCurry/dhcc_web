@@ -174,8 +174,9 @@ export default {
         this.reactiveWidth = document.body.clientWidth;
         this.reactiveHeight = (document.body.clientWidth / 1920) * 600;
       } else {
-        this.reactiveWidth = 1050;
-        this.reactiveHeight = (1050 / 1920) * 600;
+        // this.reactiveWidth = 1050;
+        // this.reactiveHeight = (1050 / 1920) * 600;
+        this.reactiveHeight = (1050 / 1920) * 700;
       }
       console.log(this.reactiveWidth + "-" + this.reactiveHeight);
     },
@@ -258,7 +259,7 @@ export default {
 
   .el-carousel {
     width: 100%;
-    min-width: 1050px;
+    /*min-width: 1050px;*/
     position: absolute;
     top: 0;
     z-index: 1;
