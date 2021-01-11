@@ -10,18 +10,18 @@
       ></navbar>
       <div class="play-area" v-if="isReload">
         <div class="play-player">
-          <!--<video-player-->
-            <!--class="video-player-box vjs-custom-skin"-->
-            <!--ref="videoPlayer"-->
-            <!--:options="playerOptions"-->
-            <!--@ready="playerReadied"-->
-          <!--&gt;</video-player>-->
-          <video
+          <video-player
             class="video-player-box vjs-custom-skin"
             ref="videoPlayer"
             :options="playerOptions"
             @ready="playerReadied"
-          ></video>
+          ></video-player>
+          <!--<video-->
+            <!--class="video-player-box vjs-custom-skin"-->
+            <!--ref="videoPlayer"-->
+            <!--:options="playerOptions"-->
+            <!--@ready="playerReadied"-->
+          <!--&gt;</video>-->
 
 
         </div>
