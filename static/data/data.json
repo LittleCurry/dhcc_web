@@ -635,70 +635,6 @@
                 "type": "application/x-mpegURL",
                 "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/8a4338cef8cd5302b4ccb5b9dc8bb218.m3u8",
                 "amount": 2742
-              },
-              {
-                "id": 13,
-                "title": "勤工俭学",
-                "poster": "../../../static/images/module/1/snky_13.jpg",
-                "type": "application/x-mpegURL",
-                "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/a1b9066a80de6f87be72ba21693861eb.m3u8",
-                "amount": 4928
-              },
-              {
-                "id": 14,
-                "title": "球鞋恋爱",
-                "poster": "../../../static/images/module/1/snky_14.jpg",
-                "type": "application/x-mpegURL",
-                "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/8f49f35e9e9277b131bfaeb0899ff5dd.m3u8",
-                "amount": 2938
-              },
-              {
-                "id": 15,
-                "title": "水泥地杀手",
-                "poster": "../../../static/images/module/1/snky_15.jpg",
-                "type": "application/x-mpegURL",
-                "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/07cb4027784e367da59b4b1c284125e1.m3u8",
-                "amount": 2742
-              },
-              {
-                "id": 16,
-                "title": "同框买鞋子",
-                "poster": "../../../static/images/module/1/snky_16.jpg",
-                "type": "application/x-mpegURL",
-                "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/332bbb218405959675d97d512c8957d6.m3u8",
-                "amount": 3824
-              },
-              {
-                "id": 17,
-                "title": "兔八哥",
-                "poster": "../../../static/images/module/1/snky_17.jpg",
-                "type": "application/x-mpegURL",
-                "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/b07b9d0690d60827a62e1019eb8156a1.m3u8",
-                "amount": 4928
-              },
-              {
-                "id": 18,
-                "title": "压到脚",
-                "poster": "../../../static/images/module/1/snky_18.jpg",
-                "type": "application/x-mpegURL",
-                "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/69a82e23681edc931ca014b6c481fd90.m3u8",
-                "amount": 2938
-              },
-              {
-                "id": 19,
-                "title": "压岁鞋",
-                "poster": "../../../static/images/module/1/snky_19.jpg",
-                "type": "application/x-mpegURL",
-                "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/69a82e23681edc931ca014b6c481fd90.m3u8",
-                "amount": 2742
-              },
-              {
-                "id": 20,
-                "title": "一不小心就飘了，再也不在这种人面前比鞋多了",
-                "poster": "../../../static/images/module/1/snky_20.jpg",
-                "type": "application/x-mpegURL",
-                "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/de418407de75042454f5302b7212274f.m3u8",
-                "amount": 3824
               }
             ]
           },
@@ -2197,7 +2133,7 @@
           {
             "id": 2,
             "title": "彩虹豆跳舞",
-            "poster": "../../../static/images/module/10/fktx_2.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_2.jpg",
             "type": "application/x-mpegURL",
             "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/418687347c556a07f7fe2b0365da80c6.m3u8",
             "amount": 3824
@@ -2205,7 +2141,7 @@
           {
             "id": 3,
             "title": "插队",
-            "poster": "../../../static/images/module/10/fktx_3.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_3.jpg",
             "type": "application/x-mpegURL",
             "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/88ecb886c10c0aa0d97ab28786bbe1d7.m3u8",
             "amount": 3824
@@ -2213,7 +2149,7 @@
           {
             "id": 4,
             "title": "大黄蜂买买买",
-            "poster": "../../../static/images/module/10/fktx_4.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_4.jpg",
             "type": "application/x-mpegURL",
             "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/e482d103d9bea210d46f7528e74c5e67.m3u8",
             "amount": 3824
@@ -2221,7 +2157,7 @@
           {
             "id": 5,
             "title": "大黄蜂汽车变形",
-            "poster": "../../../static/images/module/10/fktx_5.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_5.jpg",
             "type": "application/x-mpegURL",
             "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/e5542840150002c0cb33e26fc9711c14.m3u8",
             "amount": 3824
@@ -2229,7 +2165,7 @@
           {
             "id": 6,
             "title": "大黄蜂水冰月跳舞",
-            "poster": "../../../static/images/module/10/fktx_6.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_6.jpg",
             "type": "application/x-mpegURL",
             "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/bea7c2812118cc61f17c2866166cf2b2.m3u8",
             "amount": 3824
@@ -2237,7 +2173,7 @@
           {
             "id": 7,
             "title": "大楼变气球撩妹",
-            "poster": "../../../static/images/module/10/fktx_7.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_7.jpg",
             "type": "application/x-mpegURL",
             "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/76e5260631fc544d8705c7aac47964d3.m3u8",
             "amount": 3824
@@ -2245,7 +2181,7 @@
           {
             "id": 8,
             "title": "大楼变气球撩妹·合拍版",
-            "poster": "../../../static/images/module/10/fktx_8.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_8.jpg",
             "type": "application/x-mpegURL",
             "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/10c4bba84fe69c77c23731f39695bbfa.m3u8",
             "amount": 3824
@@ -2253,7 +2189,7 @@
           {
             "id": 9,
             "title": "懂车帝 第六版",
-            "poster": "../../../static/images/module/10/fktx_9.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_9.jpg",
             "type": "application/x-mpegURL",
             "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/ece866caadc1f762d7da35815108b622.m3u8",
             "amount": 3824
@@ -2261,7 +2197,7 @@
           {
             "id": 10,
             "title": "嘟啦舞",
-            "poster": "../../../static/images/module/10/fktx_10.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_10.jpg",
             "type": "application/x-mpegURL",
             "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/32f0fb5dcec40a564c955f865e352d96.m3u8",
             "amount": 3824
@@ -2269,7 +2205,7 @@
           {
             "id": 11,
             "title": "oppo手机抢车位",
-            "poster": "../../../static/images/module/10/fktx_11.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_11.jpg",
             "type": "application/x-mpegURL",
             "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/2334e5fb608be0c5c4939c56462e59ba.m3u8",
             "amount": 3824
@@ -2277,7 +2213,7 @@
           {
             "id": 12,
             "title": "多力多滋薯片",
-            "poster": "../../../static/images/module/10/fktx_12.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_12.jpg",
             "type": "application/x-mpegURL",
             "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/f199d658673b8e83c0a9d87d2f188283.m3u8",
             "amount": 3824
@@ -2285,7 +2221,7 @@
           {
             "id": 13,
             "title": "乐事大波浪薯片",
-            "poster": "../../../static/images/module/10/fktx_13.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_13.jpg",
             "type": "application/x-mpegURL",
             "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/c7f99b40289d24d6f459e076d76ecf9e.m3u8",
             "amount": 3824
@@ -2293,7 +2229,7 @@
           {
             "id": 14,
             "title": "陆风汽车",
-            "poster": "../../../static/images/module/10/fktx_14.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_14.jpg",
             "type": "application/x-mpegURL",
             "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/a42b4287d8ea06e88614635798d3617b.m3u8",
             "amount": 3824
@@ -2301,7 +2237,7 @@
           {
             "id": 15,
             "title": "喜力啤酒",
-            "poster": "../../../static/images/module/10/fktx_15.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_15.jpg",
             "type": "application/x-mpegURL",
             "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/9a2f01d825833b83e5b2d19e8bf56de3.m3u8",
             "amount": 3824
@@ -2309,7 +2245,7 @@
           {
             "id": 16,
             "title": "肌肉男pk绿巨人",
-            "poster": "../../../static/images/module/10/fktx_16.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_16.jpg",
             "type": "application/x-mpegURL",
             "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/608b6dbe2200dda5500707900e47b6e4.m3u8",
             "amount": 3824
@@ -2317,7 +2253,7 @@
           {
             "id": 17,
             "title": "肌肉男pk小奶狗",
-            "poster": "../../../static/images/module/10/fktx_17.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_17.jpg",
             "type": "application/x-mpegURL",
             "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/6bcaa2e01b42b8841a48494a9a32b1cf.m3u8",
             "amount": 3824
@@ -2325,7 +2261,7 @@
           {
             "id": 18,
             "title": "禁烟",
-            "poster": "../../../static/images/module/10/fktx_18.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_18.jpg",
             "type": "application/x-mpegURL",
             "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/9b7b360ce7d471a9efb5a383c7962004.m3u8",
             "amount": 3824
@@ -2333,7 +2269,7 @@
           {
             "id": 19,
             "title": "卡车变形",
-            "poster": "../../../static/images/module/10/fktx_19.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_19.jpg",
             "type": "application/x-mpegURL",
             "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/077ff7087e5f783fc9430efe84da05be.m3u8",
             "amount": 3824
@@ -2341,7 +2277,7 @@
           {
             "id": 20,
             "title": "开车舞",
-            "poster": "../../../static/images/module/10/fktx_20.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_20.jpg",
             "type": "application/x-mpegURL",
             "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/84cf23f60b39e7aa5f1e6a1096df85c3.m3u8",
             "amount": 3824
@@ -2349,7 +2285,7 @@
           {
             "id": 21,
             "title": "拉飞机",
-            "poster": "../../../static/images/module/10/fktx_21.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_21.jpg",
             "type": "application/x-mpegURL",
             "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/aa37cfb24634cc049ad9678357b541e7.m3u8",
             "amount": 3824
@@ -2357,7 +2293,7 @@
           {
             "id": 22,
             "title": "漫威雷神壁纸",
-            "poster": "../../../static/images/module/10/fktx_22.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_22.jpg",
             "type": "application/x-mpegURL",
             "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/80ce017c93a1f506cc2d82d5399cf5c8.m3u8",
             "amount": 3824
@@ -2365,7 +2301,7 @@
           {
             "id": 23,
             "title": "玫瑰花墙",
-            "poster": "../../../static/images/module/10/fktx_23.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_23.jpg",
             "type": "video/mp4",
             "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/7a2650d16dae5830c140d808a82591fa.mp4",
             "amount": 3824
@@ -2373,7 +2309,7 @@
           {
             "id": 24,
             "title": "世界杯酒杯撩妹",
-            "poster": "../../../static/images/module/10/fktx_24.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_24.jpg",
             "type": "video/mp4",
             "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/642c9755e736bd53d721e33ec07a11c8.mp4",
             "amount": 3824
@@ -2381,7 +2317,7 @@
           {
             "id": 25,
             "title": "世界杯足球",
-            "poster": "../../../static/images/module/10/fktx_25.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_25.jpg",
             "type": "video/mp4",
             "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/5f274b65b3833942158dd0f719054606.mp4",
             "amount": 3824
@@ -2389,7 +2325,7 @@
           {
             "id": 26,
             "title": "双十一口红",
-            "poster": "../../../static/images/module/10/fktx_26.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_26.jpg",
             "type": "video/mp4",
             "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/6872fe7af2a0b7ff9706409a3be52570.mp4",
             "amount": 3824
@@ -2397,7 +2333,7 @@
           {
             "id": 27,
             "title": "水龙",
-            "poster": "../../../static/images/module/10/fktx_27.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_27.jpg",
             "type": "video/mp4",
             "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/4eae0d7db3d9b3ff14e42e7346303c3f.mp4",
             "amount": 3824
@@ -2405,7 +2341,7 @@
           {
             "id": 28,
             "title": "泰坦尼克号女友分手",
-            "poster": "../../../static/images/module/10/fktx_28.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_28.jpg",
             "type": "application/x-mpegURL",
             "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/f61f89d9c90d6f9235fe4b45a8bb41d9.m3u8",
             "amount": 3824
@@ -2413,7 +2349,7 @@
           {
             "id": 29,
             "title": "铁皮系列片二 停车场被打",
-            "poster": "../../../static/images/module/10/fktx_29.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_29.jpg",
             "type": "application/x-mpegURL",
             "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/1e112c6b40cc180ff31dd8f62615a6ea.m3u8",
             "amount": 3824
@@ -2421,7 +2357,7 @@
           {
             "id": 30,
             "title": "铁皮系列片三 篮球樱木",
-            "poster": "../../../static/images/module/10/fktx_30.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_30.jpg",
             "type": "application/x-mpegURL",
             "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/32f0fb5dcec40a564c955f865e352d96.m3u8",
             "amount": 3824
@@ -2429,7 +2365,7 @@
           {
             "id": 31,
             "title": "铁皮系列片一 铁皮变车",
-            "poster": "../../../static/images/module/10/fktx_31.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_31.jpg",
             "type": "application/x-mpegURL",
             "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/28028bdfef2f793113fed6f723171d0f.m3u8",
             "amount": 3824
@@ -2437,7 +2373,7 @@
           {
             "id": 32,
             "title": "铁皮系列片三 篮球樱木",
-            "poster": "../../../static/images/module/10/fktx_32.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_32.jpg",
             "type": "application/x-mpegURL",
             "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/32f0fb5dcec40a564c955f865e352d96.m3u8",
             "amount": 3824
@@ -2445,7 +2381,7 @@
           {
             "id": 33,
             "title": "万圣节南瓜灯",
-            "poster": "../../../static/images/module/10/fktx_33.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_33.jpg",
             "type": "video/mp4",
             "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/8f94d32125d40c73df69800ee09cceaa.mp4",
             "amount": 3824
@@ -2453,7 +2389,7 @@
           {
             "id": 34,
             "title": "微博 挑战舞蹈",
-            "poster": "../../../static/images/module/10/fktx_34.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_34.jpg",
             "type": "video/mp4",
             "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/88d1134c1467b846d0d1a75729001aa4.mp4",
             "amount": 3824
@@ -2461,7 +2397,7 @@
           {
             "id": 35,
             "title": "下掉 教师节",
-            "poster": "../../../static/images/module/10/fktx_35.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_35.jpg",
             "type": "video/mp4",
             "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/00725def97bfcd22350d0815dcc8ef46.mp4",
             "amount": 3824
@@ -3511,7 +3447,7 @@
       {
         "id": 2,
         "title": "AA见证",
-        "poster": "../../../static/images/module/10/fktx_2.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_2.jpg",
         "type": "video/mp4",
         "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/418687347c556a07f7fe2b0365da80c6.m3u8",
         "amount": 4928
@@ -3519,7 +3455,7 @@
       {
         "id": 3,
         "title": "BB见证",
-        "poster": "../../../static/images/module/10/fktx_3.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_3.jpg",
         "type": "video/mp4",
         "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/88ecb886c10c0aa0d97ab28786bbe1d7.m3u8",
         "amount": 2938
@@ -3527,7 +3463,7 @@
       {
         "id": 4,
         "title": "CC见证",
-        "poster": "../../../static/images/module/10/fktx_4.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_4.jpg",
         "type": "application/x-mpegURL",
         "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/e482d103d9bea210d46f7528e74c5e67.m3u8",
         "amount": 2742
@@ -3535,7 +3471,7 @@
       {
         "id": 5,
         "title": "DD见证",
-        "poster": "../../../static/images/module/10/fktx_5.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_5.jpg",
         "type": "application/x-mpegURL",
         "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/e5542840150002c0cb33e26fc9711c14.m3u8",
         "amount": 3824
@@ -3543,7 +3479,7 @@
       {
         "id": 6,
         "title": "EE见证",
-        "poster": "../../../static/images/module/10/fktx_6.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_6.jpg",
         "type": "application/x-mpegURL",
         "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/bea7c2812118cc61f17c2866166cf2b2.m3u8",
         "amount": 4928
@@ -3551,7 +3487,7 @@
       {
         "id": 7,
         "title": "FF见证",
-        "poster": "../../../static/images/module/10/fktx_7.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_7.jpg",
         "type": "application/x-mpegURL",
         "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/76e5260631fc544d8705c7aac47964d3.m3u8",
         "amount": 2938
@@ -3559,7 +3495,7 @@
       {
         "id": 8,
         "title": "HH见证",
-        "poster": "../../../static/images/module/10/fktx_8.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_8.jpg",
         "type": "application/x-mpegURL",
         "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/10c4bba84fe69c77c23731f39695bbfa.m3u8",
         "amount": 2742
@@ -3567,7 +3503,7 @@
       {
         "id": 9,
         "title": "II见证",
-        "poster": "../../../static/images/module/10/fktx_9.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_9.jpg",
         "type": "application/x-mpegURL",
         "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/ece866caadc1f762d7da35815108b622.m3u8",
         "amount": 3824
@@ -3575,7 +3511,7 @@
       {
         "id": 10,
         "title": "JJ见证",
-        "poster": "../../../static/images/module/10/fktx_10.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_10.jpg",
         "type": "application/x-mpegURL",
         "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/32f0fb5dcec40a564c955f865e352d96.m3u8",
         "amount": 4928
@@ -3583,7 +3519,7 @@
       {
         "id": 11,
         "title": "KK见证",
-        "poster": "../../../static/images/module/10/fktx_11.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_11.jpg",
         "type": "application/x-mpegURL",
         "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/2334e5fb608be0c5c4939c56462e59ba.m3u8",
         "amount": 2938
@@ -3591,7 +3527,7 @@
       {
         "id": 12,
         "title": "LL见证",
-        "poster": "../../../static/images/module/10/fktx_12.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=fktx_12.jpg",
         "type": "application/x-mpegURL",
         "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/f199d658673b8e83c0a9d87d2f188283.m3u8",
         "amount": 4928
