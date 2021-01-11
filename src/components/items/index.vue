@@ -63,7 +63,7 @@
             {
               withCredentials: false,
               type: obj.type,
-              src: require(obj.video_url)
+              src: obj.video_url
             }
           ]
         };
