@@ -3484,8 +3484,7 @@
         "title": "待定12",
         "poster": "../../../static/original/1.jpg",
         "type": "video/mp4",
-//        "video_url": "../../../static/original/chen.mp4",
-        "video_url": "http://www.dhjhsp.com/file_server/file?file_name=chen.mp4",
+        "video_url": "../../../static/original/chen.mp4",
         "amount": 833
       }
 
