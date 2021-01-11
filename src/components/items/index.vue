@@ -106,7 +106,7 @@
 
   .items {
     /*width: 13%;*/
-    width: 30%;
+    width: 44%;
     height: auto;
     margin-right: 0.64%;
     margin-left: 0.64%;

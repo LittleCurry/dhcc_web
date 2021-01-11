@@ -176,7 +176,7 @@ export default {
       } else {
         // this.reactiveWidth = 1050;
         // this.reactiveHeight = (1050 / 1920) * 600;
-        this.reactiveHeight = (1050 / 1920) * 600;
+        this.reactiveHeight = 270;
       }
       console.log(this.reactiveWidth + "-" + this.reactiveHeight);
     },

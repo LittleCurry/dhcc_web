@@ -21,16 +21,7 @@
           <span>时尚热度</span>
         </a>
       </li>
-      <li>
-        <a>
-          <span>最佳笑点</span>
-        </a>
-      </li>
-      <li>
-        <a>
-          <span>青春短剧</span>
-        </a>
-      </li>
+
     </ul>
     <div class="marker"></div>
   </div>

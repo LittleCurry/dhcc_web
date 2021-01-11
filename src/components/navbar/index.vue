@@ -58,21 +58,6 @@
             <span>月度排行</span>
           </a>
         </li>
-        <li @click="linkTo('fashion')" v-bind:class="{'active':item[3]}">
-          <a>
-            <span>时尚热度</span>
-          </a>
-        </li>
-        <li @click="linkTo('punchline')" v-bind:class="{'active':item[4]}">
-          <a>
-            <span>最佳笑点</span>
-          </a>
-        </li>
-        <li @click="linkTo('playlet')" v-bind:class="{'active':item[5]}">
-          <a>
-            <span>青春短剧</span>
-          </a>
-        </li>
       </ul>
     </div>
   </div>
