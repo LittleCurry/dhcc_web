@@ -114,14 +114,15 @@
           playbackRates: [0.5, 1.0, 1.5, 2.0],
           aspectRatio: "16:9",
           fluid: true,
+          sources: [],
           // this.playerOptions.sources = this.videoData.source;
           // sources: [],
           // src: require(this.videoData.source.src),
-          sources : [ {
-            type : "video/mp4",
-            // src : require(this.videoData.source.src)
-            src : this.videoData.source.src
-          } ],
+          // sources : [ {
+          //   type : "video/mp4",
+          //   // src : require(this.videoData.source.src)
+          //   src : this.videoData.source.src
+          // } ],
           flash: {hls: {withCredentials: false}},
           html5: {hls: {withCredentials: false}},
           poster: "",
