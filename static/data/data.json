@@ -3744,7 +3744,7 @@
         "title": "迦南见证2020",
         "cover": "../../../static/original/chen.jpg",
         "poster": "../../../static/original/chen.jpg",
-        "type": "application/x-mpegURL",
+        "type": "video/mp4",
         "video_url": "../../../static/original/chen.mp4",
         "amount": 3824
       },
@@ -3752,7 +3752,7 @@
         "id": 2,
         "title": "AA见证",
         "poster": "../../../static/images/module/10/fktx_2.jpg",
-        "type": "application/x-mpegURL",
+        "type": "video/mp4",
         "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/418687347c556a07f7fe2b0365da80c6.m3u8",
         "amount": 4928
       },
@@ -3760,7 +3760,7 @@
         "id": 3,
         "title": "BB见证",
         "poster": "../../../static/images/module/10/fktx_3.jpg",
-        "type": "application/x-mpegURL",
+        "type": "video/mp4",
         "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/m3u8/adaptive/88ecb886c10c0aa0d97ab28786bbe1d7.m3u8",
         "amount": 2938
       },
