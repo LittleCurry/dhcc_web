@@ -25,133 +25,134 @@
 </template>
 
 <script>
-export default {
-  name: "items",
-  props: {
-    isLarge: { type: Boolean, default: false },
-    isSmall: { type: Boolean, default: false },
-    data: Object,
-    rheight: Number,
-    rwidth: Number
-  },
-  data() {
-    return {
-      isHover: false
-    };
-  },
-  methods: {
-    mouseIn() {
-      this.isHover = true;
+  export default {
+    name: "items",
+    props: {
+      isLarge: {type: Boolean, default: false},
+      isSmall: {type: Boolean, default: false},
+      data: Object,
+      rheight: Number,
+      rwidth: Number
     },
-    mouseOut() {
-      this.isHover = false;
-    },
-    getDetails(e) {
-      console.log(e.target.getAttribute("test"));
-      console.log(e.target.getAttribute("url"));
-      console.log(e.target.getAttribute("id"));
-      let ele = this.$refs.item;
-      console.log(ele.id + "-" + ele.url);
-    },
-    linkToPlayer(obj) {
-      let testData = {
-        title: obj.title,
-        poster: obj.poster,
-        amount: obj.amount,
-        source: [
-          {
-            withCredentials: false,
-            type: obj.type,
-            src: require(obj.video_url)
-          }
-        ]
+    data() {
+      return {
+        isHover: false
       };
-      this.$router.push({
-        path: "/player",
-        query: { data: testData }
-      });
-    }
-  },
-  watch: {}
-};
+    },
+    methods: {
+      mouseIn() {
+        this.isHover = true;
+      },
+      mouseOut() {
+        this.isHover = false;
+      },
+      getDetails(e) {
+        console.log(e.target.getAttribute("test"));
+        console.log(e.target.getAttribute("url"));
+        console.log(e.target.getAttribute("id"));
+        let ele = this.$refs.item;
+        console.log(ele.id + "-" + ele.url);
+      },
+      linkToPlayer(obj) {
+        console.log('url:', obj.video_url)
+        let testData = {
+          title: obj.title,
+          poster: obj.poster,
+          amount: obj.amount,
+          source: [
+            {
+              withCredentials: false,
+              type: obj.type,
+              src: require(obj.video_url)
+            }
+          ]
+        };
+        this.$router.push({
+          path: "/player",
+          query: {data: testData}
+        });
+      }
+    },
+    watch: {}
+  };
 </script>
 
 <style lang="scss" scoped>
-.items-large {
-  width: 92% !important;
-  min-height: 230px !important;
-  margin-bottom: 0 !important;
-  margin-right: 0.64% !important;
-  margin-left: 0.64% !important;
+  .items-large {
+    width: 92% !important;
+    min-height: 230px !important;
+    margin-bottom: 0 !important;
+    margin-right: 0.64% !important;
+    margin-left: 0.64% !important;
 
-  .items-bg {
-    p {
-      font-size: 20px !important;
-      font-weight: bold !important;
+    .items-bg {
+      p {
+        font-size: 20px !important;
+        font-weight: bold !important;
+      }
     }
   }
-}
 
-.items-small {
-  /*width: 18% !important;*/
-  width: 27% !important;
-  margin-right: 1% !important;
-  margin-left: 1% !important;
-}
+  .items-small {
+    /*width: 18% !important;*/
+    width: 27% !important;
+    margin-right: 1% !important;
+    margin-left: 1% !important;
+  }
 
-.items-selected {
-  color: rgba(255, 186, 116, 1) !important;
-}
+  .items-selected {
+    color: rgba(255, 186, 116, 1) !important;
+  }
 
-.items {
-  /*width: 13%;*/
-  width: 30%;
-  height: auto;
-  margin-right: 0.64%;
-  margin-left: 0.64%;
-  margin-bottom: 10px !important;
+  .items {
+    /*width: 13%;*/
+    width: 30%;
+    height: auto;
+    margin-right: 0.64%;
+    margin-left: 0.64%;
+    margin-bottom: 10px !important;
 
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: flex-start;
-  cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    cursor: pointer;
 
-  .items-bg {
-    border: none;
-    border-radius: 5px;
-    background-color: rgb(243, 243, 243);
+    .items-bg {
+      border: none;
+      border-radius: 5px;
+      background-color: rgb(243, 243, 243);
 
-    .items-cover {
-      width: 100%;
-      height: 100%;
-
-      img {
+      .items-cover {
         width: 100%;
-        border-top-left-radius: 5px;
-        border-top-right-radius: 5px;
-      }
-    }
+        height: 100%;
 
-    p {
-      width: 100%;
-      height: 42px;
-      padding-left: 5px;
-      padding-right: 5px;
-      word-break: normal;
-      white-space: pre-wrap;
-      word-wrap: break-word;
-      text-align: left;
-      font: {
-        size: 14px;
-        family: MicrosoftYaHei;
-        weight: 400;
+        img {
+          width: 100%;
+          border-top-left-radius: 5px;
+          border-top-right-radius: 5px;
+        }
       }
-      color: rgb(20, 20, 20);
-      line-height: 18px;
-      //letter-spacing: 1px;
-      cursor: pointer;
+
+      p {
+        width: 100%;
+        height: 42px;
+        padding-left: 5px;
+        padding-right: 5px;
+        word-break: normal;
+        white-space: pre-wrap;
+        word-wrap: break-word;
+        text-align: left;
+        font: {
+          size: 14px;
+          family: MicrosoftYaHei;
+          weight: 400;
+        }
+        color: rgb(20, 20, 20);
+        line-height: 18px;
+        //letter-spacing: 1px;
+        cursor: pointer;
+      }
     }
   }
-}
 </style>
