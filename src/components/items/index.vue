@@ -80,7 +80,7 @@
 <style lang="scss" scoped>
   .items-large {
     width: 92% !important;
-    min-height: 230px !important;
+    /*min-height: 230px !important;*/
     margin-bottom: 0 !important;
     margin-right: 0.64% !important;
     margin-left: 0.64% !important;
@@ -136,7 +136,7 @@
 
       p {
         width: 100%;
-        height: 42px;
+        /*height: 42px;*/
         padding-left: 5px;
         padding-right: 5px;
         word-break: normal;
