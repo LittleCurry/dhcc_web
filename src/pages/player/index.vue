@@ -10,12 +10,20 @@
       ></navbar>
       <div class="play-area" v-if="isReload">
         <div class="play-player">
-          <video-player
+          <!--<video-player-->
+            <!--class="video-player-box vjs-custom-skin"-->
+            <!--ref="videoPlayer"-->
+            <!--:options="playerOptions"-->
+            <!--@ready="playerReadied"-->
+          <!--&gt;</video-player>-->
+          <video
             class="video-player-box vjs-custom-skin"
             ref="videoPlayer"
             :options="playerOptions"
             @ready="playerReadied"
-          ></video-player>
+          ></video>
+
+
         </div>
         <div class="play-info">
           <el-row>
@@ -24,23 +32,23 @@
                 <div class="play-title">
                   <p ref="playTitle">{{title}}</p>
                 </div>
-                <div class="play-append">
-                  <div class="play-share">
-                    <span>分享：</span>
-                    <a>
-                      <img alt="wechat" src="../../assets/wechat.png">
-                    </a>
-                    <a>
-                      <img alt="sina" src="../../assets/weibo.png">
-                    </a>
-                  </div>
-                  <div class="play-amount">
-                    <p>
-                      浏览量：
-                      <span>{{amount}}</span>
-                    </p>
-                  </div>
-                </div>
+                <!--<div class="play-append">-->
+                  <!--<div class="play-share">-->
+                    <!--<span>分享：</span>-->
+                    <!--<a>-->
+                      <!--<img alt="wechat" src="../../assets/wechat.png">-->
+                    <!--</a>-->
+                    <!--<a>-->
+                      <!--<img alt="sina" src="../../assets/weibo.png">-->
+                    <!--</a>-->
+                  <!--</div>-->
+                  <!--<div class="play-amount">-->
+                    <!--<p>-->
+                      <!--浏览量：-->
+                      <!--<span>{{amount}}</span>-->
+                    <!--</p>-->
+                  <!--</div>-->
+                <!--</div>-->
               </div>
             </el-col>
             <el-col :span="12">
@@ -62,9 +70,9 @@
           <el-col :span="18">
             <discuss></discuss>
           </el-col>
-          <el-col :span="6">
-            <recommend :data="rcData" @changeVideoData="changeVideoData"></recommend>
-          </el-col>
+          <!--<el-col :span="6">-->
+            <!--<recommend :data="rcData" @changeVideoData="changeVideoData"></recommend>-->
+          <!--</el-col>-->
         </el-row>
       </div>
     </div>
