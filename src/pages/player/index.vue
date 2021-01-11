@@ -51,13 +51,13 @@
                 <!--</div>-->
               </div>
             </el-col>
-            <el-col :span="12">
-              <div class="play-ad" @click="googleAd()">
-                <a>
-                  <img alt="ad" src="../../../static/images/ad/ad.png">
-                </a>
-              </div>
-            </el-col>
+            <!--<el-col :span="12">-->
+              <!--<div class="play-ad" @click="googleAd()">-->
+                <!--<a>-->
+                  <!--<img alt="ad" src="../../../static/images/ad/ad.png">-->
+                <!--</a>-->
+              <!--</div>-->
+            <!--</el-col>-->
           </el-row>
         </div>
       </div>
