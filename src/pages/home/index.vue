@@ -7,10 +7,10 @@
       <div class="left"></div>
       <div class="right"></div>
       <div class="main">
-        <frame :data="module_data_10" :limit="11"  :exhibition="true">
-        <frame :data="module_data_3" :limit="14">
-        <frame :data="module_data_2" :limit="11"  :exhibition="true">
-        <frame :data="module_data_5" :limit="14">
+        <frame :data="module_data_10" :limit="7"  :exhibition="true">
+        <frame :data="module_data_3" :limit="6">
+        <frame :data="module_data_2" :limit="7"  :exhibition="true">
+        <frame :data="module_data_5" :limit="6">
       </div>
     </div>
     <div class="footer">
