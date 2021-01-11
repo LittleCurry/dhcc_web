@@ -143,7 +143,7 @@ export default {
     this.amount = this.videoData.amount;
     this.playerOptions.poster = this.videoData.poster;
     this.playerOptions.sources = this.videoData.source;
-    this.playerOptions.sources.src = require(this.videoData.source.src);
+    // this.playerOptions.sources.src = require(this.videoData.source.src);
 
     //console.log("this is current player instance object", this.player);
     //console.log(this.rcData);
