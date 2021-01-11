@@ -7,15 +7,15 @@
       {
         "id": 1,
         "title": "迦南见证1",
-        "poster": "../../../static/original/chen.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=chen.jpg",
         "type": "video/mp4",
-        "video_url": "../../../static/original/chen.mp4",
+        "video_url": "http://www.dhjhsp.com/file_server/file?file_name=chen.mp4",
         "amount": 1
       },
       {
         "id": 2,
         "title": "青年夏令营",
-        "poster": "../../../static/original/1.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=1.jpg",
         "type": "video/mp4",
         "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/aec19a6d57c35ce9d604e9577df61df8.mp4",
         "amount": 1
@@ -23,7 +23,7 @@
       {
         "id": 3,
         "title": "教会日常",
-        "poster": "../../../static/original/2.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=2.jpg",
         "type": "video/mp4",
         "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/836c100ee855a8e6cc333f0b6b8f046b.mp4",
         "amount": 1
@@ -31,7 +31,7 @@
       {
         "id": 4,
         "title": "同工服事",
-        "poster": "../../../static/original/3.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=3.jpg",
         "type": "video/mp4",
         "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/0a8eccd7d3e1a38fa9c1547a270bab8f.mp4",
         "amount": 1
@@ -39,7 +39,7 @@
       {
         "id": 5,
         "title": "亲自活动",
-        "poster": "../../../static/original/4.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=4.jpg",
         "type": "video/mp4",
         "video_url": "https://38917.long-vod.cdn.aodianyun.com/u/38917/mp4/0x0/b0f694479684f2810d5bc9ef32537328.mp4",
         "amount": 1
@@ -2189,9 +2189,9 @@
           {
             "id": 1,
             "title": "迦南的见证",
-            "poster": "../../../static/original/chen.jpg",
+            "poster": "http://www.dhjhsp.com/file_server/file?file_name=chen.jpg",
             "type": "application/x-mpegURL",
-            "video_url": "../../../static/original/chen.mp4",
+            "video_url": "http://www.dhjhsp.com/file_server/file?file_name=chen.mp4",
             "amount": 3824
           },
           {
@@ -3055,109 +3055,109 @@
       {
         "id": 1,
         "title": "夏令营",
-        "cover": "../../../static/original/1.jpg",
-        "poster": "../../../static/original/1.jpg",
+        "cover": "http://www.dhjhsp.com/file_server/file?file_name=1.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=1.jpg",
         "type": "application/x-mpegURL",
-        "video_url": "../../../static/original/1.mp4",
+        "video_url": "http://www.dhjhsp.com/file_server/file?file_name=1.mp4",
         "amount": 3824
       },
       {
         "id": 2,
         "title": "冬令营",
-        "cover": "../../../static/original/2.jpg",
-        "poster": "../../../static/original/2.jpg",
+        "cover": "http://www.dhjhsp.com/file_server/file?file_name=2.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=2.jpg",
         "type": "application/x-mpegURL",
-        "video_url": "../../../static/original/chen.mp4",
+        "video_url": "http://www.dhjhsp.com/file_server/file?file_name=chen.mp4",
         "amount": 3824
       },
       {
         "id": 3,
         "title": "演讲",
-        "cover": "../../../static/original/3.jpg",
-        "poster": "../../../static/original/3.jpg",
+        "cover": "http://www.dhjhsp.com/file_server/file?file_name=3.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=3.jpg",
         "type": "application/x-mpegURL",
-        "video_url": "../../../static/original/1.mp4",
+        "video_url": "http://www.dhjhsp.com/file_server/file?file_name=1.mp4",
         "amount": 3824
       },
       {
         "id": 4,
         "title": "沟通",
-        "cover": "../../../static/original/4.jpg",
-        "poster": "../../../static/original/4.jpg",
+        "cover": "http://www.dhjhsp.com/file_server/file?file_name=4.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=4.jpg",
         "type": "application/x-mpegURL",
-        "video_url": "../../../static/original/1.mp4",
+        "video_url": "http://www.dhjhsp.com/file_server/file?file_name=1.mp4",
         "amount": 3824
       },
       {
         "id": 5,
         "title": "跳舞💃",
-        "cover": "../../../static/original/1.jpg",
-        "poster": "../../../static/original/1.jpg",
+        "cover": "http://www.dhjhsp.com/file_server/file?file_name=1.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=1.jpg",
         "type": "application/x-mpegURL",
-        "video_url": "../../../static/original/1.mp4",
+        "video_url": "http://www.dhjhsp.com/file_server/file?file_name=1.mp4",
         "amount": 3824
       },
       {
         "id": 6,
         "title": "唱歌",
-        "cover": "../../../static/original/1.jpg",
-        "poster": "../../../static/original/1.jpg",
+        "cover": "http://www.dhjhsp.com/file_server/file?file_name=1.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=1.jpg",
         "type": "application/x-mpegURL",
-        "video_url": "../../../static/original/1.mp4",
+        "video_url": "http://www.dhjhsp.com/file_server/file?file_name=1.mp4",
         "amount": 3824
       },
       {
         "id": 7,
         "title": "跳高",
-        "cover": "../../../static/original/1.jpg",
-        "poster": "../../../static/original/1.jpg",
+        "cover": "http://www.dhjhsp.com/file_server/file?file_name=1.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=1.jpg",
         "type": "application/x-mpegURL",
-        "video_url": "../../../static/original/1.mp4",
+        "video_url": "http://www.dhjhsp.com/file_server/file?file_name=1.mp4",
         "amount": 3824
       },
       {
         "id": 8,
         "title": "划水",
-        "cover": "../../../static/original/1.jpg",
-        "poster": "../../../static/original/1.jpg",
+        "cover": "http://www.dhjhsp.com/file_server/file?file_name=1.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=1.jpg",
         "type": "application/x-mpegURL",
-        "video_url": "../../../static/original/1.mp4",
+        "video_url": "http://www.dhjhsp.com/file_server/file?file_name=1.mp4",
         "amount": 3824
       },
       {
         "id": 9,
         "title": "登山",
-        "cover": "../../../static/original/1.jpg",
-        "poster": "../../../static/original/1.jpg",
+        "cover": "http://www.dhjhsp.com/file_server/file?file_name=1.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=1.jpg",
         "type": "application/x-mpegURL",
-        "video_url": "../../../static/original/1.mp4",
+        "video_url": "http://www.dhjhsp.com/file_server/file?file_name=1.mp4",
         "amount": 3824
       },
       {
         "id": 10,
         "title": "拔河",
-        "cover": "../../../static/original/1.jpg",
-        "poster": "../../../static/original/1.jpg",
+        "cover": "http://www.dhjhsp.com/file_server/file?file_name=1.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=1.jpg",
         "type": "application/x-mpegURL",
-        "video_url": "../../../static/original/1.mp4",
+        "video_url": "http://www.dhjhsp.com/file_server/file?file_name=1.mp4",
         "amount": 3824
       },
       {
         "id": 11,
         "title": "跑步",
-        "cover": "../../../static/original/1.jpg",
-        "poster": "../../../static/original/1.jpg",
+        "cover": "http://www.dhjhsp.com/file_server/file?file_name=1.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=1.jpg",
         "type": "application/x-mpegURL",
-        "video_url": "../../../static/original/1.mp4",
+        "video_url": "http://www.dhjhsp.com/file_server/file?file_name=1.mp4",
         "amount": 3824
       },
       {
         "id": 12,
         "title": "野营",
-        "cover": "../../../static/original/1.jpg",
-        "poster": "../../../static/original/1.jpg",
+        "cover": "http://www.dhjhsp.com/file_server/file?file_name=1.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=1.jpg",
         "type": "application/x-mpegURL",
-        "video_url": "../../../static/original/1.mp4",
+        "video_url": "http://www.dhjhsp.com/file_server/file?file_name=1.mp4",
         "amount": 3824
       }
 
@@ -3394,97 +3394,97 @@
       {
         "id": 1,
         "title": "待定1",
-        "poster": "../../../static/original/1.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=1.jpg",
         "type": "video/mp4",
-        "video_url": "../../../static/original/chen.mp4",
+        "video_url": "http://www.dhjhsp.com/file_server/file?file_name=chen.mp4",
         "amount": 833
       },
       {
         "id": 2,
         "title": "待定2",
-        "poster": "../../../static/original/1.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=1.jpg",
         "type": "video/mp4",
-        "video_url": "../../../static/original/chen.mp4",
+        "video_url": "http://www.dhjhsp.com/file_server/file?file_name=chen.mp4",
         "amount": 833
       },
       {
         "id": 3,
         "title": "待定3",
-        "poster": "../../../static/original/1.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=1.jpg",
         "type": "video/mp4",
-        "video_url": "../../../static/original/chen.mp4",
+        "video_url": "http://www.dhjhsp.com/file_server/file?file_name=chen.mp4",
         "amount": 833
       },
       {
         "id": 4,
         "title": "待定4",
-        "poster": "../../../static/original/1.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=1.jpg",
         "type": "video/mp4",
-        "video_url": "../../../static/original/chen.mp4",
+        "video_url": "http://www.dhjhsp.com/file_server/file?file_name=chen.mp4",
         "amount": 833
       },
       {
         "id": 5,
         "title": "待定5",
-        "poster": "../../../static/original/1.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=1.jpg",
         "type": "video/mp4",
-        "video_url": "../../../static/original/chen.mp4",
+        "video_url": "http://www.dhjhsp.com/file_server/file?file_name=chen.mp4",
         "amount": 833
       },
       {
         "id": 6,
         "title": "待定6",
-        "poster": "../../../static/original/1.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=1.jpg",
         "type": "video/mp4",
-        "video_url": "../../../static/original/chen.mp4",
+        "video_url": "http://www.dhjhsp.com/file_server/file?file_name=chen.mp4",
         "amount": 833
       },
       {
         "id": 7,
         "title": "待定7",
-        "poster": "../../../static/original/1.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=1.jpg",
         "type": "video/mp4",
-        "video_url": "../../../static/original/chen.mp4",
+        "video_url": "http://www.dhjhsp.com/file_server/file?file_name=chen.mp4",
         "amount": 833
       },
       {
         "id": 8,
         "title": "待定8",
-        "poster": "../../../static/original/1.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=1.jpg",
         "type": "video/mp4",
-        "video_url": "../../../static/original/chen.mp4",
+        "video_url": "http://www.dhjhsp.com/file_server/file?file_name=chen.mp4",
         "amount": 833
       },
       {
         "id": 9,
         "title": "待定9",
-        "poster": "../../../static/original/1.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=1.jpg",
         "type": "video/mp4",
-        "video_url": "../../../static/original/chen.mp4",
+        "video_url": "http://www.dhjhsp.com/file_server/file?file_name=chen.mp4",
         "amount": 833
       },
       {
         "id": 10,
         "title": "待定10",
-        "poster": "../../../static/original/1.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=1.jpg",
         "type": "video/mp4",
-        "video_url": "../../../static/original/chen.mp4",
+        "video_url": "http://www.dhjhsp.com/file_server/file?file_name=chen.mp4",
         "amount": 833
       },
       {
         "id": 11,
         "title": "待定11",
-        "poster": "../../../static/original/1.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=1.jpg",
         "type": "video/mp4",
-        "video_url": "../../../static/original/chen.mp4",
+        "video_url": "http://www.dhjhsp.com/file_server/file?file_name=chen.mp4",
         "amount": 833
       },
       {
         "id": 12,
         "title": "待定12",
-        "poster": "../../../static/original/1.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=1.jpg",
         "type": "video/mp4",
-        "video_url": "../../../static/original/chen.mp4",
+        "video_url": "http://www.dhjhsp.com/file_server/file?file_name=chen.mp4",
         "amount": 833
       }
 
@@ -3502,8 +3502,8 @@
       {
         "id": 1,
         "title": "迦南见证2020",
-        "cover": "../../../static/original/chen.jpg",
-        "poster": "../../../static/original/chen.jpg",
+        "cover": "http://www.dhjhsp.com/file_server/file?file_name=chen.jpg",
+        "poster": "http://www.dhjhsp.com/file_server/file?file_name=chen.jpg",
         "type": "video/mp4",
         "video_url": "http://www.dhjhsp.com/file_server/file?file_name=chen.mp4",
         "amount": 3824
